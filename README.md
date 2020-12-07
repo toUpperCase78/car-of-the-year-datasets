@@ -12,8 +12,6 @@ Every year, more than 30 different candidate cars are determined as in a provisi
 
 This repo contains datasets for all winners and nominees, which competed for this award, since 1964 as well as their total points accumulated from juries. Plus, all voting grids for nominated cars between 2010 and 2020.
 
-**Analyses will be performed at a later date to gain valuable insights. Stay tuned!**
-
 ## Datasets
 
 Here, you can find two different types of datasets to inspect:
@@ -21,7 +19,13 @@ Here, you can find two different types of datasets to inspect:
 * The first type (called `carOfTheYear_winners_nominees` in a CSV file) encompasses all winners and nominees with their total points, starting from 1964, up to the present.
 * The second type contains voting grids for individual years, from 2010 to 2020 (called `carOfTheYearXXXX_votingGrid` in CSV files). Thus, 11 different datasets are available.
 
-## Facts
+## Analyses
+
+**Analyses about winners and nominees of Car of the Year are avaiable!** 
+
+Please click on _CarOfTheYear_winners_nominees_ IPython file to inspect.
+
+## Notable Facts
 
 * In 2002-2020, there are 7 cars nominated to be the Car of the Year; except in 2013, the number of nominated cars was 8.
 * The year 2001 has seen the most nominated cars (which is 10) for the award.
